@@ -1,0 +1,12 @@
+.currency-converter-container {
+    padding: 10px;
+}
+
+.currency-row {
+    display: flex;
+    padding: 20px;
+}
+
+.currency-row div + div {
+    padding-left: 10px;
+}
